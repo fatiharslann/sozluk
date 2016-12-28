@@ -1,0 +1,6 @@
+software=yazilim;
+home=ev;
+book=kitap;
+data=veri;
+horse=at;
+sequential=sirali;
